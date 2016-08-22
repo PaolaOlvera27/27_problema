@@ -1,0 +1,38 @@
+footer {
+	padding: 3%;
+	border-top: 5px solid gray;
+}
+/* Utilities */
+.border-botton {
+	border-bottom: solid 2px lightgray;
+}
+.bg-gray {
+	background-color: lightgray;
+}
+.bg-darkgray {
+	background: gray;
+}
+.text-black {
+	color: black;
+}
+/* Aside */
+.font-a1 {
+	font-size: 10px;
+	color: gray;
+}
+.float-right {
+	float: right;
+}
+.pa {
+	padding: 2% 3%;
+	margin: 3%;
+}
+.inline {
+	display: inline-block;
+}
+.foto {
+	padding: 100px 50%;
+}
+.caja{
+	padding: 7% 0%;
+}
